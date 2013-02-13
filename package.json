@@ -1,0 +1,11 @@
+{
+  "name": "node-bench",
+  "version": "0.0.1",
+  "description": "Nodejs benchmark small utility",
+  "author": {
+    "name": "Takashi Seki",
+    "email": "sekitaka.tech@gmail.com"
+  },
+  "main": "lib/node-bench.js",
+  "homepage": "https://github.com/sekitaka/node-bench"
+}
